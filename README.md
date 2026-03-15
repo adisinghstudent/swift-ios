@@ -1,19 +1,11 @@
-# swift-ios
+# sagar-wants-to-make-ios-brainrot-apps
 
 Expert Swift & iOS development skill for AI coding agents. Covers SwiftUI architecture, design systems, networking, state management, persistence, testing, and production patterns.
 
 ## Install
 
 ```bash
-npx add-skill adisinghstudent/swift-ios
-```
-
-For specific agents:
-
-```bash
-npx add-skill adisinghstudent/swift-ios -a claude-code
-npx add-skill adisinghstudent/swift-ios -a cursor
-npx add-skill adisinghstudent/swift-ios -a codex
+npx skills add adisinghstudent/swift-ios
 ```
 
 ## What's Included

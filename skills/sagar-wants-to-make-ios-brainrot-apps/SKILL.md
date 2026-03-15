@@ -1,5 +1,5 @@
 ---
-name: swift-ios
+name: sagar-wants-to-make-ios-brainrot-apps
 description: Expert Swift & iOS development skill — SwiftUI architecture, design systems, networking, state management, and production patterns for building native iOS apps with Claude Code.
 triggers:
   - swift
